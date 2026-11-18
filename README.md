@@ -4,9 +4,9 @@
 - Current Patient Needs
 - Mental Health Protocols
 - Available Healthcare Resources
-_ _ _ _ _ _ _ _ _ _
+................
 
-- learn-healthcare-systen
+- *learn-healthcare-systen
 ---
 
 # Projeto Navega PEP Floripa
