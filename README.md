@@ -1,5 +1,12 @@
-# mental-care-navegation-lhs
+# 
 
+### Dynamic Matching Navigation: 
+- Current Patient Needs
+- Mental Health Protocols
+- Available Healthcare Resources
+————————————
+** learn-healthcare-systen
+---
 
 # Projeto Navega PEP Floripa
 
